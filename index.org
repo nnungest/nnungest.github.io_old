@@ -1,5 +1,5 @@
 #+TITLE: unix ramblings...
 #+AUTHOR: nnungest
-
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="stylesheet.css" />
 * First Post... 
  First post. I think I'm supposed to "Hello World" or something.. Grammar here will be terrible, there will be run-on sentences and awful spelling of almost every other word. Most posts will be about frustrating or cool things I run into while working. Stay tuned or cringe and look away..  
