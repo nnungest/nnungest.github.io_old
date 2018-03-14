@@ -1,7 +1,6 @@
 #+TITLE: unix ramblings
 #+AUTHOR: nnungest
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="stylesheet.css" />
-#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="stylesheet.css" />
 
 * First Post 
 :properties:
