@@ -25,9 +25,20 @@ I just wanted to take some time to go ahead and lay out my preferred setup. Unfo
 - Text Editors: Vim (via spf13vim), Emacs (via Spacemacs)
 - Utils: Qutebrowser, Weechat, Pywall, HTTPie, MPV, MPD, NCMPCPP, Chrome (sadly), maybe Docker if I had some images already pulled, Virtualbox (with some spare isos), udiskie, Taskwarrior, The Gimp and the Libreoffice suite. 
 - Languages: Python, Lua, GO, Ruby, Awk, Perl, Bash and Node
-Most of the utilities that I need are already either included in the i3 community edition of Manjaro so I wont mention every single one. 
 - Gaming: I could probably just get by on some free games, or have a few offline via Steam (not a huge gamer). 
+
+Most of the utilities that I need are already either included in the i3 community edition of Manjaro so I wont mention every single one. 
 
 Why not go with just vanilla Vim or Emacs? Well for the simple fact that if I dont like the config I can just backup the fancy and use a basic config for either.
 
-That pretty much lays out what I like or don't like. I'm sure I missed at least a few thing from the list but you get the picture. 
+That pretty much lays out what I like or don't like. I'm sure I missed at least a few thing from the list but you get the picture.
+
+
+
+
+
+
+
+
+--------
+
