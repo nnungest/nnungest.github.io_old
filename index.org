@@ -1,10 +1,33 @@
-#+TITLE: unix ramblings...
+#+TITLE: unix ramblings
 #+AUTHOR: nnungest
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="stylesheet.css" />
-* First Post... 
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="stylesheet.css" />
+
+* First Post 
 :properties:
 :unnumbered: t
 :end: 
 2018-03-13 Tue
 
  First post. I think I'm supposed to "Hello World" or something.. Grammar here will be terrible, there will be run-on sentences and awful spelling of almost every other word. Most posts will be about frustrating or cool things I run into while working. Stay tuned or cringe and look away..  
+
+* getting the job done
+:properties:
+:unnumbered: t
+:end:
+2018-03-13 Tue
+
+I just wanted to take some time to go ahead and lay out my preferred setup. Unfortunately at work I have no choice on OS and must use OSX. To make this list short and get to the point, lets suppose a scenario: I have to pick my OS and software and cannot change that for 2 years and I only had a day to set things up. What follows is probably close to what I would be running.
+
+- OS: Linux
+- Distro: Manjaro
+- WM: i3 (via Manjaro i3 Community Edition)
+- Text Editors: Vim (via spf13vim), Emacs (via Spacemacs)
+- Utils: Qutebrowser, Weechat, Pywall, HTTPie, MPV, MPD, NCMPCPP, Chrome (sadly), maybe Docker if I had some images already pulled, Virtualbox (with some spare isos), udiskie, Taskwarrior, The Gimp and the Libreoffice suite. 
+- Languages: Python, Lua, GO, Ruby, Awk, Perl, Bash and Node
+Most of the utilities that I need are already either included in the i3 community edition of Manjaro so I wont mention every single one. 
+- Gaming: I could probably just get by on some free games, or have a few offline via Steam (not a huge gamer). 
+
+Why not go with just vanilla Vim or Emacs? Well for the simple fact that if I dont like the config I can just backup the fancy and use a basic config for either.
+
+That pretty much lays out what I like or don't like. I'm sure I missed at least a few thing from the list but you get the picture. 
